@@ -7,6 +7,13 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=sammsts&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=sammsts&show_icons=true&theme=radical&layout=compact" />
 </div>
+
+&nbsp;
+
+<div align="center">
+ <a href="https://github.com/sammsts"></a>
+ <img src="https://komarev.com/ghpvc/?username=sammsts&color=green"/>
+</div>
  
 &nbsp;
 &nbsp;
