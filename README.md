@@ -11,8 +11,9 @@
 &nbsp;
 
 <div align="center">
- <a href="https://github.com/sammsts"></a>
- <img src="https://komarev.com/ghpvc/?username=sammsts&color=green"/>
+ <a href="https://github.com/sammsts">
+  <img src="https://komarev.com/ghpvc/?username=sammsts&color=green" alt="Profile View Badge"/>
+ </a>
 </div>
  
 &nbsp;
