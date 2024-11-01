@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/sammsts/sammsts/assets/100657343/74dd7e9c-e2d0-45fa-9293-cfa265e7131e" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Fascinated by solving big challenges using technology. <br><br> From backend development using C# to frontend development using ReactJS, I am <strong>passionate about discovering new technologies</strong> and using them to create high-quality solutions. Today I am a <strong>full stack junior-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Fascinated by solving big challenges using technology. <br><br> From backend development using C# to frontend development using ReactJS, I am <strong>passionate about discovering new technologies</strong> and using them to create high-quality solutions. Today I am a <strong>full stack developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=sammsts&theme=radical&mode=weekly" />
