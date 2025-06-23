@@ -23,7 +23,8 @@ jobs:
           git config user.email "github-actions@github.com"
           git add -A .
           git diff --cached --quiet || git commit -m "generated"
-
-          # Usa o token pessoal (GH_PAT) explicitamente na URL do remote
           git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git
+      - name: Debug Git Remote
+        run: |
+          git remote -v
           git push origin HEAD
