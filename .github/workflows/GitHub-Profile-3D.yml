@@ -26,6 +26,4 @@ jobs:
           git add -A .
           git diff --cached --quiet || git commit -m "generated"
           git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git
-          echo ">>> Git remote atual:"
-          git remote -v
           git push origin HEAD
