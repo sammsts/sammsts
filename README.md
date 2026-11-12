@@ -1,7 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/sammsts/sammsts/assets/100657343/74dd7e9c-e2d0-45fa-9293-cfa265e7131e" />
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">Fascinated by solving big challenges using technology. <br><br> From backend development using C# to frontend development using ReactJS, I am <strong>passionate about discovering new technologies</strong> and using them to create high-quality solutions. Today I am a <strong>full stack developer</strong> focused on web development.</p>&nbsp;
+<p align="center"><strong>I'm a Senior Software Engineer</strong> 💻</p>&nbsp;
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -23,17 +20,14 @@
 ### At the moment
 #### Main Stack:
 
+![TypeScript](https://img.shields.io/badge/TypeScript-1E56F7?style=for-the-badge&logo=typescript&logoColor=black)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![Dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 
 <img src="https://github.com/sammsts/sammsts/assets/100657343/924d12a2-9612-4aab-b9fb-61ef7fd6da89" min-width="400px" max-width="400px" width="400px" align="right" alt="computador">
-
-#### Studying in this moment:
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![ReactNative.js](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 #### Databases:
 
